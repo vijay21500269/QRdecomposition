@@ -67,7 +67,7 @@ QR_Decomposition(a)
 ```
 
 ## Output
-![output]()
+![output](https://github.com/vijay21500269/QRdecomposition/blob/main/Screenshot%20(35).png)
 
 
 
